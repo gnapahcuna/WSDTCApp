@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Test WS App</string>
+
+    <string name="title_login">Login</string>
+    <string name="user_hint">Username*</string>
+    <string name="pass_hint">Password*</string>
+    <string name="remem_text">Remember</string>
+    <string name="button_login_text">Login</string>
+    <string name="button_register_text">Register</string>
+    <string name="button_cancel_text">Cancel</string>
+
+    <string name="title_register">Register</string>
+    <string name="fn_hint">Fisrt Name*</string>
+    <string name="ln_hint">Last Name*</string>
+    <string name="id_hint">Card ID*</string>
+    <string name="phone_hint">Phone Number</string>
+    <string name="image_upload_text">Upload Image</string>
+    <string name="msg_require_edit">this field is required</string>
+
+    <string name="profile_title_firstname">Fisrt Name</string>
+    <string name="profile_title_lastname">Last Name</string>
+    <string name="profile_title_user">User Name</string>
+    <string name="profile_title_pass">Password</string>
+    <string name="profile_title_card_id">Card ID</string>
+    <string name="profile_title_phone">phone</string>
+    <string name="profile_logout">Logout</string>
+    <string name="profile_go_map">Map</string>
+
+    <string name="message_fail">ไม่พบข้อมูลผู้ใช้ในระบบกรุณา สมัครสมาชิก หรือ ติดต่อผู้ดูแลระบบ</string>
+    <string name="message_confirm">ยืนยันการลงทะเบียน</string>
+    <string name="message_logout_confirm">ท่านต้องการออกจากระบบ?</string>
+    <string name="message_no_gps">Your GPS seems to be disabled, do you want to enable it?</string>
+</resources>

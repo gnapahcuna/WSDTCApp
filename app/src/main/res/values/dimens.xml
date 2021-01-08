@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimen_font_size_profile">20dp</dimen>
+    <dimen name="dimen_font_size_title">18dp</dimen>
+    <dimen name="dimen_font_size_body">16dp</dimen>
+</resources>
